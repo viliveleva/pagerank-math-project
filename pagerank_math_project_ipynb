@@ -159,6 +159,7 @@
         "\n",
         "This project helped me understand that Linear Algebra is not just abstract math on a whiteboard. It is a powerful tool used by companies like Google every day to organize the internet. The Power Iteration method is very smart because it finds the answer step-by-step without making the computer crash.\n",
 "Project built for SoftUni Math Course.\n",
+"The implementation successfully demonstrates power iteration convergence.\n",
       ],
       "metadata": {
         "id": "lfK9H_h4ViZq"
