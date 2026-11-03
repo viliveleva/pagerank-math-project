@@ -84,7 +84,7 @@
         "# Step 2: # Step 2: Configuration parameters\n",
         "d = 0.85  # Google damping factor\n",
         "n = 4    # Number of pages\n",
-        "epsilon = 0.001 # Convergence thre\n",
+        "epsilon = 0.001  # Convergence threshold\n",
         "\n",
         "# Step 3: Base Google Matrix formula\n",
         "ones_matrix = np.ones((n, n))\n",
