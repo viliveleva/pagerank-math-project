@@ -157,11 +157,13 @@
         "* **Page 0** and **Page 3** got the highest scores because they have strong links going into them.\n",
         "* Even though **Page 3** only links to Page 0, the damping factor (d=0.85) made sure that the system didn't break or get stuck in an infinite loop.\n",
         "\n",
-        "This project helped me understand that Linear Algebra is not just abstract math on a whiteboard. It is a powerful tool used by companies like Google every day to organize the internet. The Power Iteration method is very smart because it finds the answer step-by-step without making the computer crash.\n"
+        "This project helped me understand that Linear Algebra is not just abstract math on a whiteboard. It is a powerful tool used by companies like Google every day to organize the internet. The Power Iteration method is very smart because it finds the answer step-by-step without making the computer crash.\n",
+"Project built for SoftUni Math Course.\n",
       ],
       "metadata": {
         "id": "lfK9H_h4ViZq"
       }
+
     }
   ]
 }
